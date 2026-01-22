@@ -17,9 +17,11 @@ derslere göre **dönem ve konu bazlı** organize edilmiş şekilde barındırı
 
 Repodaki içerik, genellikle aşağıdaki gibi organize edilmiştir:
 
+```text
 IUC/
 ├─ 2nd Year – Fall Semester (2.1)/
-│ └─ Veri Yapıları (C++ & C)/
+│  └─ Veri Yapıları (C++ & C)/
 │
 └─ 3rd Year – Fall Semester (3.1)/
-└─ System Programming/
+   └─ System Programming/
+```
