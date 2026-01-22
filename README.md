@@ -13,7 +13,7 @@ derslere göre **dönem ve konu bazlı** organize edilmiş şekilde barındırı
 
 ---
 
-## Klasör Yapısı
+## İçerik Yapısı
 
 Repodaki içerik, genellikle aşağıdaki gibi organize edilmiştir:
 
